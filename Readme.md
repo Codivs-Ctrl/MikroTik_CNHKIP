@@ -319,7 +319,7 @@ A: 使用 `/log print` 查看日志，使用 `/ip firewall address-list print co
 
 **联系方式**：
 - GitHub Issues: [提交问题](https://github.com/Codivs-Ctrl/MikroTik_CNHKIP/issues)
-- Email: Zhihong@codivs.com
+- Email: Zhihong@Firegle.com
 
 ---
 
